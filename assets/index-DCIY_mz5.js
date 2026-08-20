@@ -1,0 +1,1 @@
+import{t as e}from"./source-CoLDQLXn.js";(class extends e{}).define({title:`About`});
